@@ -1,4 +1,5 @@
-Qantas Training
+
+Qantas Python Training
 --------
 
 Sample  repository for python/git training for the Qantas Analytics team.
